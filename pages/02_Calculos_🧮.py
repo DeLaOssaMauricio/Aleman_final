@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 
 # Librerías para visualización
-import .pyplot as plt
+import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Librerías para interfaces
