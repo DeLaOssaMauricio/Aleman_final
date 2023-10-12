@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.image("imagenes\PortadaYoutube.png")
+st.image("imagenes/PortadaYoutube.png")
 
 import streamlit as st
 

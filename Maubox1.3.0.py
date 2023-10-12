@@ -4,7 +4,7 @@ import streamlit as st
 
 
 
-st.image("imagenes\PortadaYoutube.png")
+st.image("imagenes/PortadaYoutube.png")
 
 st.title('Maubox 1.0')
 st.markdown('_____')

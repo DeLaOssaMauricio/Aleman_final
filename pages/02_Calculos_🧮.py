@@ -31,7 +31,7 @@ tabla_grubbs = pd.DataFrame({
 #### Comienzo del software final
 
 
-st.image("imagenes\PortadaYoutube.png")
+st.image("imagenes/PortadaYoutube.png")
 
 
 # Título y descripción del componente
